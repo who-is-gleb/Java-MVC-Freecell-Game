@@ -1,4 +1,4 @@
-# Java-MVC-Freecell-Game-
+# Java-MVC-Freecell-Game
 
    HI! This is an example of my work. Here I implemented an MVC design pattern on Java.
 
