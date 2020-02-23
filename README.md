@@ -3,6 +3,7 @@
    HI! This is an example of my work. Here I implemented an MVC design pattern on Java.
 
    Please notice: there is no View implementation here, my purpose is to show my Model and Controller implementation for my portfolio. The View implementation here is done inside the Model's method "getGameState( )". It returns a String. 
+   Also, besides the general MVC patter, in this example I use the factory patter to build a Model and I also use Java stream API.
    
    DESCRIPTION:
    
