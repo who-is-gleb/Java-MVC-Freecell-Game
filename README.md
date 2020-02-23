@@ -17,6 +17,6 @@
    
    IMPORTANT NOTES: 
    
-   P.S. This is the project that I created during my OOD Java class at Northeastern University. Thus, it has a structure of src/cs3500.freecell/hw02, hw03, etc.  
+   P.S. This is the project that I created during my OOD Java class at Northeastern University.
     
    P.S.S. I did not create Interfaces, TypeCheck classes, or FailingAppendable class. We were provided with them by our university professors.
